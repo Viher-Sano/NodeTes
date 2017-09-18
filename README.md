@@ -1,9 +1,9 @@
 # NodeTest
 Test Node JS
-> sudo npm install -g yo
-> sudo npm install -g generator-express
-> yo generator-express
-> MVC
-> JADE
-> Node-Sass
-> npm run start
+1. `sudo npm install -g yo`
+2. `sudo npm install -g generator-express`
+3. `yo generator-express`
+4. `MVC`
+5. `JADE`
+6. `Node-Sass`
+7. `npm run start`
